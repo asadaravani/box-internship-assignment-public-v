@@ -1,3 +1,11 @@
+# BoxShogi Game (Public Version)
+This is a public version of the BoxShogi game, provided as part of the assignment in the hiring process for the internship program at BOX company. For privacy reasons, the source code and other directories have been removed.
+If you would like to receive the full version, please feel free to contact me **for recruitment purposes only**.
+Email: `beganov.asad@gmail.com` Telegram: `@asadaravani`
+
+<img src="./media/testcases-success.png" width="218" height="445" />
+<img src="./media/interactive-mode-success.png" width="236" height="43" />
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/5xwzIdc1)
 # BoxShogi Specification
 
